@@ -34,5 +34,5 @@ Ensure you have the following installed:
 ### **Installation Steps**  
 1. Clone the repository:  
    ```sh
-   git clone https://github.com/yourusername/cloth-shop-dbms.git
+   git clone https://github.com/RAJWARDHAN-B/cloth-shop-dbms.git
    cd cloth-shop-dbms
